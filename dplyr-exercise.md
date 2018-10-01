@@ -157,4 +157,4 @@ low_lifeExp %>%
 
 ![plot of chunk task3](figure/task3-1.png)
 
-From this, we can see that Africa has the greatest number of countries with low life expectancy (by this definition), followed by Asia. While the number of countries with low life expectancy in Asia appears to have decreased and stabilized, the number of countries with low life expectancy appears to be growing. From this plot alone, it is unclear if life expectancy is decreasing in these countries in Africa or if they are just being out paced by the rest of the world.
+From this, we can see that Africa has the greatest number of countries with low life expectancy (by this definition), followed by Asia. While the number of countries with low life expectancy in Asia appears to have decreased and stabilized, the number of countries with low life expectancy in Africa appears to be growing. From this plot alone, it is unclear if life expectancy is decreasing in these countries in Africa or if they are just being out paced by the rest of the world.
